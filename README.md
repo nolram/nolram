@@ -1,6 +1,6 @@
 ### Hello! I'm Marlon :wave:
 
-## I'm a DevOps at South System, currently working as tech lead in a Health Care Project
+## I'm a Cloud Enginner at [iClinic](https://iclinic.com.br/)
 
 ## Follow me :airplane: :airplane:
 [![Marlon's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonbaptista/)
@@ -8,6 +8,8 @@
 [![Marlon's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbaptista)
 [![Marlon's Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/galfie/)
 
+## My Certifications
+[![Certifications](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e4652f24-d66b-4c1f-b7a2-3daf9a296793/public_url)
 
 ## My Repositories
 
