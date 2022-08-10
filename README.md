@@ -10,6 +10,7 @@
 
 ## My Certifications
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e4652f24-d66b-4c1f-b7a2-3daf9a296793/public_url)
+[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/8131d855-a66d-4e55-95ec-2c063e405eea/public_url)
 
 ## My Repositories
 
