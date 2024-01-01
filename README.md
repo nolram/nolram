@@ -1,6 +1,6 @@
 ### Hello! I'm Marlon :wave:
 
-## I'm a Senior Python Enginner at [KWAN](https://kwan.pt/)
+## I'm Full Stack Enginner at [KWAN](https://kwan.pt/)
 
 ## Follow me :rocket:
 [![Marlon's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonbaptista/)
