@@ -1,74 +1,87 @@
-### Hello! I'm Marlon :wave:
+<div align="center">
 
-## I'm a Full-stack Enginner at [Woba](https://www.woba.com.br/)
+  # Hello! I'm Marlon :wave:
+  
+  ### Senior Full Stack Engineer | Cloud Engineer | AWS Certified (2x)
+  
+  <p>
+    I act at the intersection of <b>Application Development</b> and <b>Cloud Infrastructure</b>. <br>
+    My focus is on building scalable systems, optimizing cloud costs (FinOps), and integrating AI agents into engineering workflows.
+  </p>
 
-## Follow me :rocket:
-[![Marlon's LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlonbaptista/)
-[![Marlon's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marlonquadros/)
-[![Marlon's Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/marlonbaptista)
-[![Marlon's Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/galfie/)
+  <br>
 
-## My Certifications
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/e4652f24-d66b-4c1f-b7a2-3daf9a296793/public_url)
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/8131d855-a66d-4e55-95ec-2c063e405eea/public_url)
+  <a href="https://www.linkedin.com/in/marlonbaptista/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nolram">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/marlonquadros/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://steamcommunity.com/id/galfie/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
 
-## My Repositories
+</div>
 
-- [DevOps IaC Examples](https://github.com/nolram/devops-iac-examples)
-- [Serverless Template NodeJS](https://github.com/nolram/serverless-template-nodejs)
-- [Github Actions](https://github.com/nolram/github-actions)
-- [Serverless Examples](https://github.com/nolram/serverless-examples)
-- [Django Poc Draw Service](https://github.com/nolram/django-poc-draw-service)
-- [Django Workshop](https://github.com/nolram/django-workshop)
-- [Python Web Crawling](https://github.com/nolram/tdc-lapidando-diamantes-python)
-- [Django + Postgis + RabbitMQ + Celery + Redis docker-compose](https://gist.github.com/nolram/58244e203865b914cc0b14b64391741f)
-- [Python News Crawler](https://github.com/nolram/news-crawler)
+<br>
 
-## Techs
+---
 
-### Languages
+## ⚡ About Me
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]()
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+- 🔭 I’m currently working as a **Full-stack Engineer at [Woba](https://www.woba.com.br/)**.
+- 💡 I specialize in **AWS/Azure**, **Python (Django)**, **Node.js**, and **Kubernetes**.
+- 💰 **FinOps Enthusiast:** I love optimizing cloud architectures to reduce costs without sacrificing performance.
+- 🤖 **AI & Automation:** I'm actively building with **LLM Agents (Gemini/Ollama)**, **RAG**, and **n8n**.
+- 🔭 **Hobby:** I practice **Astrophotography**, where I use AI to automate weather analysis and target selection!
+- 🎮 **Fun:** I also dabble in Game Dev using **Godot** and **Blender**.
 
-### Databases
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)]()
+---
 
-### Frameworks
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![DJANGO-REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+## 🏆 Certifications
 
+<div align="left">
+  <a href="https://www.credly.com/badges/e4652f24-d66b-4c1f-b7a2-3daf9a296793/public_url">
+    <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/8131d855-a66d-4e55-95ec-2c063e405eea/public_url">
+    <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate"/>
+  </a>
+</div>
 
-### DevOps
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
-[![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)]()
-[![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)]()
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)]()
-[![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()
+---
 
+## 🛠️ Tech Stack
 
-### Cloud
-[![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Digital_Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)]()
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,nodejs,express,django,flask,react,vue,nextjs,aws,azure,docker,k8s,terraform,ansible,jenkins,postgres,mongo,redis,linux,godot,blender&theme=dark" />
+  </a>
+</div>
 
-### OS
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+---
 
+## 📂 Featured Repositories
 
-### Dev Games
-[![Unreal](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)]()
-[![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
+| Repository | Description |
+| :--- | :--- |
+| [**DevOps IaC Examples**](https://github.com/nolram/devops-iac-examples) | Examples of Infrastructure as Code including Terraform. |
+| [**Serverless Template NodeJS**](https://github.com/nolram/serverless-template-nodejs) | Boilerplate for Serverless applications using Node.js. |
+| [**Github Actions**](https://github.com/nolram/github-actions) | CI/CD pipelines and workflows examples. |
+| [**Django Workshop**](https://github.com/nolram/django-workshop) | Educational material for learning Django development. |
+| [**Python Web Crawling**](https://github.com/nolram/tdc-lapidando-diamantes-python) | Code from my presentation on Python crawling techniques. |
 
-### Queues
-[![rabbitmq](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)]()
+---
 
+## 📈 GitHub Stats
 
-## My GitHub Stats :rocket: :rocket:
-[![Marlon's GitHub stats](https://github-readme-stats.vercel.app/api?username=nolram&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nolram&theme=dark" alt="GitHub Streak" /></a>
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nolram&theme=flat&no-frame=true&column=7&margin-w=15" alt="nolram" />
+  </a>
+</div>
