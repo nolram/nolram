@@ -68,6 +68,7 @@
 
 | Repository | Description |
 | :--- | :--- |
+| [**Architecture Diagrams**](https://github.com/nolram/architecture-diagrams) | AI-oriented architecture diagram generator — real icons, automatic layout via ELK.js, built as a Claude Skill. |
 | [**DevOps IaC Examples**](https://github.com/nolram/devops-iac-examples) | Examples of Infrastructure as Code including Terraform. |
 | [**Serverless Template NodeJS**](https://github.com/nolram/serverless-template-nodejs) | Boilerplate for Serverless applications using Node.js. |
 | [**Github Actions**](https://github.com/nolram/github-actions) | CI/CD pipelines and workflows examples. |
