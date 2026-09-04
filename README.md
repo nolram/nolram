@@ -37,9 +37,8 @@
 - 💰 **FinOps Enthusiast:** I love optimizing cloud architectures to reduce costs without sacrificing performance.
 - 🤖 **AI & Automation:** I'm actively building with **LLM Agents (Gemini/Ollama)**, **RAG**, and **n8n**.
 - 🔭 **Hobby:** I practice **Astrophotography**, where I use AI to automate weather analysis and target selection!
-- 🎮 **Fun:** I also dabble in Game Dev using **Godot** and **Blender**.
 
----
+------
 
 ## 🏆 Certifications
 
@@ -69,11 +68,6 @@
 | Repository | Description |
 | :--- | :--- |
 | [**Architecture Diagrams**](https://github.com/nolram/architecture-diagrams) | AI-oriented architecture diagram generator — real icons, automatic layout via ELK.js, built as a Claude Skill. |
-| [**DevOps IaC Examples**](https://github.com/nolram/devops-iac-examples) | Examples of Infrastructure as Code including Terraform. |
-| [**Serverless Template NodeJS**](https://github.com/nolram/serverless-template-nodejs) | Boilerplate for Serverless applications using Node.js. |
-| [**Github Actions**](https://github.com/nolram/github-actions) | CI/CD pipelines and workflows examples. |
-| [**Django Workshop**](https://github.com/nolram/django-workshop) | Educational material for learning Django development. |
-| [**Python Web Crawling**](https://github.com/nolram/tdc-lapidando-diamantes-python) | Code from my presentation on Python crawling techniques. |
 
 ---
 
